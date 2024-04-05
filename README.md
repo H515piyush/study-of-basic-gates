@@ -68,19 +68,23 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
  Developed by:piyush kumar
  RegisterNumber:212223220075 
+ ![312524418-91cd9c06-dc03-4c8c-9aca-5f9e3eab0189](https://github.com/H515piyush/study-of-basic-gates/assets/147472999/54bb849a-290d-424f-9618-e52ca385efb7)
+
  
 **Logic symbol & Truthtable**
 
 
+![312524944-f9705d15-097d-41f0-938e-727ac8c817fe](https://github.com/H515piyush/study-of-basic-gates/assets/147472999/67bb1c1c-5305-4807-8eb5-923606865918)
 
 
-![Screenshot 2024-03-13 133428](https://github.com/H515piyush/study-of-basic-gates/assets/147472999/e5a66686-a45e-4039-bf9f-a9e44497e5c8)
-
-
-![Screenshot 2024-03-13 133712](https://github.com/H515piyush/study-of-basic-gates/assets/147472999/00c310bb-a064-4086-9bca-3e0942c4bc6d)
 
 
 **RTL**
+![312525416-523d3d1f-416e-46fc-b087-8e2e92053a69](https://github.com/H515piyush/study-of-basic-gates/assets/147472999/8df182e2-f64a-443d-956f-bb264928726d)
+
+**OUTPUT**
+![312525723-f207de9e-70e8-480c-805b-7bba6eba26d7](https://github.com/H515piyush/study-of-basic-gates/assets/147472999/259bdfa4-4c2e-4c1c-8441-e402ec4a07db)
+
 
 **Result:**
 program executed successfully
